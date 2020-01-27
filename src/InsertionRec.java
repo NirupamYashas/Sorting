@@ -9,7 +9,7 @@ public class InsertionRec {
             return; 
        
         // Sort first n-1 elements 
-        insertionSortRecursive( arr, n-1 ); 
+        insertionSortRecursive( arr, n-1 );
        
         // Insert last element at its correct position 
         // in sorted array. 
